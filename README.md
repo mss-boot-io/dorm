@@ -1,0 +1,2 @@
+# dynamodb-go
+DynamoDB ORM
